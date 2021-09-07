@@ -4,4 +4,13 @@ Sentiment Analysis is the process of analyzing and categorizing text into positi
 
 For example:  </br>
 He performed <ins>excellent </ins> in the competition.</br>
-Here, this sentence is positive because of the word "excellent". Similarly, we have to find subpart which is responsible for the sentiment of sentence.  
+Here, this sentence is positive because of the word "excellent". Similarly, we have to find subpart which is responsible for the sentiment of sentence. </br>
+
+Dataset : https://www.kaggle.com/c/tweet-sentiment-extraction </br>
+Training data - 27K </br>
+Testing data - 3.5K </br>
+
+
+
+
+
